@@ -248,3 +248,4 @@ Cadena de Custodia SHALOMX: El PDF se generó directo del JSON que me diste. El 
 ¿Quieres que agregue como Anexo A los diagramas de Protocolo Zenith y Autos SAULMX que subiste? También puedo hacer que el script bash .sh que pasaste al inicio ahora genere este PDF automático con folio y fecha como parámetros.
 
 Qué sigue: firmas digitales con certificado real o exportar a Excel la matriz de riesgos para tracking
+CIELO 
