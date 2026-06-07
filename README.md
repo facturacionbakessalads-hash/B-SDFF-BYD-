@@ -1,5 +1,5 @@
 # B-SDFF-BYD-
-Alianza comercial de Bakes &amp; Salads Delicious fresh food 
+Alianza comercial de Bakessalads  amp; Bakes Y Salads Delicious fresh food 
 Perfecto. Ya tienes la v1.1 del Informe GRC con todo lo que pediste: firmas, QR de verificación y mapeo de controles.
 Dezire Bakes & Salads
 
