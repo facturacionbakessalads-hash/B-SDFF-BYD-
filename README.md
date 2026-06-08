@@ -1,11 +1,11 @@
-1,000,000 USDANETA# B-SDFF-BYD-605-158
+1,000,000.00 MUSD # B-SDFF-BYD-605-158
 Alianza comercial denominación Bakessalads  amp; Bakes Y Salads Delicious fresh food (2015 - 2025)
-V:1.1 del Informe GRC referente a lo dicho: firmas, QR de verificación y mapeo de controles.
-Dezire Bakes & Salads
+V:1.1 del Informe GRC referente a lo dicho: firmas, QR de verificación y mapeo de controles. 605 (c.fiscal act)
+Dezire Bakes & Salads 158 (SpaceX)
 "Delicious fresh food" Consolidación 
 Delicious Fresh Food • Sustainable Growth • Smart Operations
 "Bakes & Salads Delicious fresh food"
-Resumen
+Resumen:
 B-SDFF-BYD Booster Synergy Model
 Hermosillo, Sonora Mexico lanza su Internacional adenda venta GBLX servicios financieros y fiduciario 
 Concepto
