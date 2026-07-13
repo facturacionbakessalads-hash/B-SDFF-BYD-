@@ -248,5 +248,5 @@ Cadena de Custodia SHALOMX: El PDF se generó directo del JSON que me diste. El 
 ¿Quieres que agregue como Anexo A los diagramas de Protocolo Zenith y Autos SAULMX que subiste? También puedo hacer que el script bash .sh que pasaste al inicio ahora genere este PDF automático con folio y fecha como parámetros.
 ejemplo,de México a todo el mundo 
 Qué sigue: firmas digitales con certificado real o exportar a Excel la matriz de riesgos para tracking
-CIELO 
-Nacion digna de valentía y respeto 
+CIELO RENIX SAAOLMXGBLXGCLOUD 
+Nacion digna de valentía temor y respeto del nombre deSX8V10רָקִיעַשָׁלוֹם® SX8V10רָקִיעַשָׁלוֹם®JesúsCristoSX8V10רָקִיעַ 
